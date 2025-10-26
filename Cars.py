@@ -13,7 +13,7 @@ class Cars:
         return f"{self.make} {self.model}"
 
 if __name__ == "__main__":
-    car_1 = Cars("Nissan", "Duke", "5 years old", 500000, 5745)
+    car_1 = Cars("Nissan", "Juke", "5 years old", 500000, 5745)
     car_2 = Cars("Toyota", "Alphard", "10 years old", 32670, 13000)
     car_3 = Cars("Lexus", "LBX", "1 year old", 12320, 17000)
 
