@@ -1,0 +1,15 @@
+OOP Property Model (Python)
+
+This project demonstrates core Object-Oriented Programming (OOP) concepts in Python by modeling different types of properties and buyer preferences.
+
+### Classes Included
+- **House** Base class defining shared property attributes.
+- **Bungalow** Subclass representing single-story houses.
+- **Apartments**  Subclass representing apartments with optional amenities.
+- **HouseBuyerPreference**  Represents a buyer’s ideal property and spending budget.
+
+### Concepts Demonstrated
+- Inheritance and subclass specialization
+- Encapsulation (private attributes)
+- Constructor overriding with `super()`
+- Object instantiation and attribute access
